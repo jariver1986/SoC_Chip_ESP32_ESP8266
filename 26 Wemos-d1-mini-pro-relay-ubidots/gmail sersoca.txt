@@ -1,0 +1,5 @@
+sersoca.sersoca@gmail.com
+sersoca2023
+
+#define WIFINAME "SERSOCA_Ext" //Your SSID
+#define WIFIPASS "S3rs0C@2021+*" // Your Wifi Pass
